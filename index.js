@@ -47,7 +47,7 @@ chart = {
 
   return svg.node();
 }
-data = FileAttachment("miserables.json").json()
+data = FileAttachment("/d3-distance/miserables.json").json()
 
 height = 600
 
