@@ -1,14 +1,4 @@
-export default function define(runtime, observer) {
-  const main = runtime.module();
-  const fileAttachments = new Map([["miserables.json",new URL("./files/31d904f6e21d42d4963ece9c8cc4fbd75efcbdc404bf511bc79906f0a1be68b5a01e935f65123670ed04e35ca8cae3c2b943f82bf8db49c5a67c85cbb58db052",import.meta.url)]]);
-  main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
-  main.variable(observer()).define(["md"], function(md){return(
-md`# Force-Directed Graph
-
-This network of character co-occurence in _Les Misérables_ is positioned by simulated forces using [d3-force](https://github.com/d3/d3-force). See also a [disconnected graph](/@d3/disjoint-force-directed-graph), and compare to [WebCoLa](/@mbostock/hello-cola).`
-)});
-  main.variable(observer("chart")).define("chart", ["data","d3","width","height","color","drag","invalidation"], function(data,d3,width,height,color,drag,invalidation)
-{
+chart = {
   const links = data.links.map(d => Object.create(d));
   const nodes = data.nodes.map(d => Object.create(d));
 
@@ -57,21 +47,16 @@ This network of character co-occurence in _Les Misérables_ is positioned by sim
 
   return svg.node();
 }
-);
-  main.variable(observer("data")).define("data", ["FileAttachment"], function(FileAttachment){return(
-FileAttachment("miserables.json").json()
-)});
-  main.variable(observer("height")).define("height", function(){return(
-600
-)});
-  main.variable(observer("color")).define("color", ["d3"], function(d3)
-{
+data = FileAttachment("miserables.json").json()
+
+height = 600
+
+color = {
   const scale = d3.scaleOrdinal(d3.schemeCategory10);
   return d => scale(d.group);
 }
-);
-  main.variable(observer("drag")).define("drag", ["d3"], function(d3){return(
-simulation => {
+
+drag = simulation => {
   
   function dragstarted(event) {
     if (!event.active) simulation.alphaTarget(0.3).restart();
@@ -95,10 +80,5 @@ simulation => {
       .on("drag", dragged)
       .on("end", dragended);
 }
-)});
-  main.variable(observer("d3")).define("d3", ["require"], function(require){return(
-require("d3@6")
-)});
-  return main;
-}
- 
+
+d3 = require("d3@6")
