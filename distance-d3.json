@@ -3,1647 +3,1647 @@
       {
          "id":"Mim Optik",
          "cat":"Accessory",
-         "number":1
+         "group":1
       },
       {
          "id":"Kuzey Optik",
          "cat":"Accessory",
-         "number":1
+         "group":1
       },
       {
          "id":"Tolga Saat",
          "cat":"Accessory",
-         "number":1
+         "group":1
       },
       {
          "id":"Nisan Optik",
          "cat":"Accessory",
-         "number":1
+         "group":1
       },
       {
          "id":"Ata Optik",
          "cat":"Accessory",
-         "number":1
+         "group":1
       },
       {
          "id":"Monel Optik",
          "cat":"Accessory",
-         "number":1
+         "group":1
       },
       {
          "id":"Ersan Optik",
          "cat":"Accessory",
-         "number":1
+         "group":1
       },
       {
          "id":"Angal Bijuteri",
          "cat":"Accessory",
-         "number":1
+         "group":1
       },
       {
          "id":"Cirkin Bijuteri",
          "cat":"Accessory",
-         "number":1
+         "group":1
       },
       {
          "id":"Esenler Optik",
          "cat":"Accessory",
-         "number":1
+         "group":1
       },
       {
          "id":"Venus Optik",
          "cat":"Accessory",
-         "number":1
+         "group":1
       },
       {
          "id":"Saat Dukkanı",
          "cat":"Accessory",
-         "number":1
+         "group":1
       },
       {
          "id":"Arzu Boncuk",
          "cat":"Accessory",
-         "number":1
+         "group":1
       },
       {
          "id":"Momentus Elit Saat",
          "cat":"Accessory",
-         "number":1
+         "group":1
       },
       {
          "id":"Anteplioglu Baklava",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Erdoganlar Pastanesi",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Durak Borek Salonu",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Kılıcoglu Baklavaları",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Cigdem Odun Ekmegı Fırını",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Antepli Baklavacı",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Hacı Seyid Baklava",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Nur Pastanesi",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Tatlıbak Pastanesi",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Oz Karadeniz Ekmek Fırını",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Seyidoglu Baklava",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Arda Dondurma",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Hasanoglu Baklava",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Safranlar Ekmek Fırını",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Sarıyer Borekcisi",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Sedef Roma Dondurması",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Cetinler Pastanesi",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"Omurlu Pastanesi",
          "cat":"Bakery",
-         "number":2
+         "group":2
       },
       {
          "id":"TC Ziraat Bankası",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"Halkbank",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"Vakıfbank",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"Kuveyt Turk Bankası",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"Albaraka Turk",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"Garanti Bankası Şubesi",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"QNB Finans Bank",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"Türkiye Finans Bank",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"Bogazıcı Dovız",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"Akbank",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"Denizbank",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"Taskopru Doviz",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"Is Bankası",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"Fortis Bankası",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"Bank Asya",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"Saydam Doviz Burosu",
          "cat":"Bank",
-         "number":3
+         "group":3
       },
       {
          "id":"Altın Makas Erkek Kuaforu",
          "cat":"Beauty Care",
-         "number":4
+         "group":4
       },
       {
          "id":"Saadet Kuafor",
          "cat":"Beauty Care",
-         "number":4
+         "group":4
       },
       {
          "id":"Class Saat Gumusculuk",
          "cat":"Beauty Care",
-         "number":4
+         "group":4
       },
       {
          "id":"Pelinay Parfum",
          "cat":"Beauty Care",
-         "number":4
+         "group":4
       },
       {
          "id":"Armagan Gumus",
          "cat":"Beauty Care",
-         "number":4
+         "group":4
       },
       {
          "id":"Tutke Saat Gumus",
          "cat":"Beauty Care",
-         "number":4
+         "group":4
       },
       {
          "id":"Kozmetik",
          "cat":"Beauty Care",
-         "number":4
+         "group":4
       },
       {
          "id":"Laris Parfum",
          "cat":"Beauty Care",
-         "number":4
+         "group":4
       },
       {
          "id":"Mert Gumus ve Hediyelik",
          "cat":"Beauty Care",
-         "number":4
+         "group":4
       },
       {
          "id":"Db Parfum",
          "cat":"Beauty Care",
-         "number":4
+         "group":4
       },
       {
          "id":"Eyfel Parfum",
          "cat":"Beauty Care",
-         "number":4
+         "group":4
       },
       {
          "id":"Iddaa Bayii",
          "cat":"Betting",
-         "number":5
+         "group":5
       },
       {
          "id":"Bilge Kitapevi",
          "cat":"Bookstore",
-         "number":6
+         "group":6
       },
       {
          "id":"Ofis Is Kırtasiye",
          "cat":"Bookstore",
-         "number":6
+         "group":6
       },
       {
          "id":"Nt Kitap",
          "cat":"Bookstore",
-         "number":6
+         "group":6
       },
       {
          "id":"Tolga Kırtasiye",
          "cat":"Bookstore",
-         "number":6
+         "group":6
       },
       {
          "id":"Bodrum Cafe",
          "cat":"Cafe",
-         "number":7
+         "group":7
       },
       {
          "id":"Kosucu Internet Cafe",
          "cat":"Cafe",
-         "number":7
+         "group":7
       },
       {
          "id":"Onal Cay Evi",
          "cat":"Cafe",
-         "number":7
+         "group":7
       },
       {
          "id":"Deniz Kafe",
          "cat":"Cafe",
-         "number":7
+         "group":7
       },
       {
          "id":"Cafe Esenler",
          "cat":"Cafe",
-         "number":7
+         "group":7
       },
       {
          "id":"Elit Internet Cafe",
          "cat":"Cafe",
-         "number":7
+         "group":7
       },
       {
          "id":"Cakir Cafe",
          "cat":"Cafe",
-         "number":7
+         "group":7
       },
       {
          "id":"Ilker Bufe Cay Ocagı",
          "cat":"Cafe",
-         "number":7
+         "group":7
       },
       {
          "id":"Aras Kargo",
          "cat":"Cargo",
-         "number":8
+         "group":8
       },
       {
          "id":"Beypilic Kasap",
          "cat":"Charcuterie",
-         "number":9
+         "group":9
       },
       {
          "id":"Ozkaya Tavuk",
          "cat":"Charcuterie",
-         "number":9
+         "group":9
       },
       {
          "id":"Piril Et Tavuk Kasabı",
          "cat":"Charcuterie",
-         "number":9
+         "group":9
       },
       {
          "id":"Koylu Peynircilik",
          "cat":"Charcuterie",
-         "number":9
+         "group":9
       },
       {
          "id":"Enfes Peynircilik",
          "cat":"Charcuterie",
-         "number":9
+         "group":9
       },
       {
          "id":"Celebi Et ve Gıda Pazarı",
          "cat":"Charcuterie",
-         "number":9
+         "group":9
       },
       {
          "id":"Peynirci Baba",
          "cat":"Charcuterie",
-         "number":9
+         "group":9
       },
       {
          "id":"Alemdar Kasap",
          "cat":"Charcuterie",
-         "number":9
+         "group":9
       },
       {
          "id":"Aktas Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Duru Cocuk Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Dilegen Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Kot Dünyası Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"De Facto",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Konfeksiyon",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Senem Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Biricik Tekstil",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Tanrıverdi Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Pelinay Ic Camasır",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Neslim Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Terzi",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Kardelen Irmak Bebe Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Erdem Tekstil",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Esarp Park",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Meltem Esarp",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Ayse Ic Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Ezgi Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Oguzhan Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Alagise Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Aydogan Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Pardesu Diyarı",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Ahmet Aydın Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"LC Waikiki",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Karbeyaz Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Espri Outlet Center",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Kutay Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Alkan Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"City Camasır",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Tati Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Lvs Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Alakın Bebe Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Podyum Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Dogan Gunes Ic Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Rodi Jeans",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Collezione Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Pazarlum Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Polen Butik",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Fb Free Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"LCW",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Mehmet Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Lk Jeans",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Cobalt Gomlek",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Kompedan Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"King Kids",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Gulsima Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"David Gomlek",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Osman Biber Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Birer Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Asit Jeans",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Adres Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Emre Cocuk Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Surco Jeans",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Femme Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Ufuk Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Teyfik Ates Giyim",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"By Olis Tekstil",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Reddison Gomlek",
          "cat":"Clothing",
-         "number":10
+         "group":10
       },
       {
          "id":"Depo",
          "cat":"Depot",
-         "number":11
+         "group":11
       },
       {
          "id":"Tifte Restoran",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Mert Iskender Salonu",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Domino's Pizza",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Erdil Et Lokantası",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Tadım Pide",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Ismail Pide Kebap",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Esenler Pide Borek Salonu",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Hepsi Lahmacun",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Merkez Lokantası",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Cıgkofteci Kenan Usta",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Elif Doner 2",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Ahmet Ust Cigkofteci",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Esenler Doner Salonu",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Pasa Doner",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Yaprak Tantuni",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Gumuskapı Iskender",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Can Bira Evi",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Hacıoglu Lahmacun",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Burger King",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Beydagı Lokantası",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Erdoganlar Durum Kebap",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Tırnak Fast Food",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Kimene 61 Restoran",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Saheser Kofte",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Durumcu",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Tastan Restoran",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Bufeterya Fast Food",
          "cat":"Eatery",
-         "number":12
+         "group":12
       },
       {
          "id":"Kultur Dersanesi",
          "cat":"Educational",
-         "number":13
+         "group":13
       },
       {
          "id":"Ugur Dersanesi",
          "cat":"Educational",
-         "number":13
+         "group":13
       },
       {
          "id":"Ozel Prizma Fem Dersanesi",
          "cat":"Educational",
-         "number":13
+         "group":13
       },
       {
          "id":"Cevdetler Cicekcilik",
          "cat":"Florist",
-         "number":14
+         "group":14
       },
       {
          "id":"Esen Perde",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Vin Floor Zemin Kaplama",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Kasmir Halı",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Istıkbal Mobilya",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Kosk Halı",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Brillant Store",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Oznam Banyo",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Bellona Mobilya Magazası",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Mefrusatcı",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Centroom Magaza",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Yatas",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Erpa Mobilya",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Derya Halı",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Sevval Mobilya",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"BMK Banyo Mutfak",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Simsek Mobilya",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Altın Mobilya",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Taskınlar Mutfak Mobilya",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Avantaj Mobilya",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Halım Ceyiz",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Merinos Mobilya",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Yuvam Halı Magazası",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Akgun Perde",
          "cat":"Furniture Store",
-         "number":15
+         "group":15
       },
       {
          "id":"Starpet Benzin Istasyonu",
          "cat":"Gas Station",
-         "number":16
+         "group":16
       },
       {
          "id":"Gokkusagı Elektronik",
          "cat":"Hardware Store",
-         "number":17
+         "group":17
       },
       {
          "id":"Gunaydın Elektrik",
          "cat":"Hardware Store",
-         "number":17
+         "group":17
       },
       {
          "id":"Eras Anahtar",
          "cat":"Hardware Store",
-         "number":17
+         "group":17
       },
       {
          "id":"Atik Boya",
          "cat":"Hardware Store",
-         "number":17
+         "group":17
       },
       {
          "id":"Salihler Boya",
          "cat":"Hardware Store",
-         "number":17
+         "group":17
       },
       {
          "id":"Erdem Nalburiye ",
          "cat":"Hardware Store",
-         "number":17
+         "group":17
       },
       {
          "id":"Kale Kilit Anahtarcı",
          "cat":"Hardware Store",
-         "number":17
+         "group":17
       },
       {
          "id":"Akdag Nalbur",
          "cat":"Hardware Store",
-         "number":17
+         "group":17
       },
       {
          "id":"Teknik Elektronik",
          "cat":"Hardware Store",
-         "number":17
+         "group":17
       },
       {
          "id":"Hayat Hastanesi",
          "cat":"Health",
-         "number":18
+         "group":18
       },
       {
          "id":"Ozel Esenler Guney Hastanesi",
          "cat":"Health",
-         "number":18
+         "group":18
       },
       {
          "id":"Ozel Avicenna Hastanesi",
          "cat":"Health",
-         "number":18
+         "group":18
       },
       {
          "id":"Karaca Gumusluk",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Sevimler Beyaz Esya",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Dubai Center Alısveris",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Ucel Kristal",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Manolya Ceyiz",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Arcelik Beyaz Esya",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Sokullu Beyaz Esya",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Vestel",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Aytemiz Alısveris Merkezi",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Profilo",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Bosch Bayii",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Otugen Beko Bayii",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Sıemens Ev Aletleri",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Karaca Tekstil",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Baskaya AVM",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Seckin Alısveris Merkezi",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Ev Modası Avm",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Evkur AVM",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Soylu Alısveris Merkezi",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Guven Halı Ceyiz",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Cansoy Magazaları",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Yuvam Avm",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Kayalar Ceyiz",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Parlak AVM",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Aksu Carsi Alısverismerkezi",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Bosch Beyaz Esya",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Soylu Profilo",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Ipek Ceyiz",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Istanbul Alısveris Merkezi",
          "cat":"Home Goods",
-         "number":19
+         "group":19
       },
       {
          "id":"Avantaj Gold",
          "cat":"Jeweler",
-         "number":20
+         "group":20
       },
       {
          "id":"Arslan Kuyumcu",
          "cat":"Jeweler",
-         "number":20
+         "group":20
       },
       {
          "id":"Bayramoglu Kuyumculuk",
          "cat":"Jeweler",
-         "number":20
+         "group":20
       },
       {
          "id":"Sembol Kuyumculuk",
          "cat":"Jeweler",
-         "number":20
+         "group":20
       },
       {
          "id":"Ozgenc Kuyumculuk",
          "cat":"Jeweler",
-         "number":20
+         "group":20
       },
       {
          "id":"Ecem Mucevherat",
          "cat":"Jeweler",
-         "number":20
+         "group":20
       },
       {
          "id":"Ornek Kuyumculuk",
          "cat":"Jeweler",
-         "number":20
+         "group":20
       },
       {
          "id":"Guller Kuyumcu",
          "cat":"Jeweler",
-         "number":20
+         "group":20
       },
       {
          "id":"Lider Hipermarket",
          "cat":"Market",
-         "number":21
+         "group":21
       },
       {
          "id":"Canet Market",
          "cat":"Market",
-         "number":21
+         "group":21
       },
       {
          "id":"Ozmert Alısverismerkezi",
          "cat":"Market",
-         "number":21
+         "group":21
       },
       {
          "id":"Rota Market",
          "cat":"Market",
-         "number":21
+         "group":21
       },
       {
          "id":"Gorsev Yapı Market",
          "cat":"Market",
-         "number":21
+         "group":21
       },
       {
          "id":"Antep Gıda Pazarı",
          "cat":"Market",
-         "number":21
+         "group":21
       },
       {
          "id":"Aybars Bufe",
          "cat":"Market",
-         "number":21
+         "group":21
       },
       {
          "id":"Esselam Gıda",
          "cat":"Market",
-         "number":21
+         "group":21
       },
       {
          "id":"Kim Market",
          "cat":"Market",
-         "number":21
+         "group":21
       },
       {
          "id":"Tadım Bufe",
          "cat":"Market",
-         "number":21
+         "group":21
       },
       {
          "id":"Carik Market",
          "cat":"Market",
-         "number":21
+         "group":21
       },
       {
          "id":"Ttnet ",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Turkcell Bayii",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Emir Telefon",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Vodafone",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Avea",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Selcuk Iletisim",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Gungor Iletısım",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Eksper Iletisim",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Ozcelik Iletisim",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Bilpa Iletisim ",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Sevgi Iletisim",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Can Iletisim",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Durak Iletisim",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Avea Bayii",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Konfor Iletısım",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Kontel Haberlesme",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Turk Telekom",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Kaan Iletisim",
          "cat":"Mobile Store",
-         "number":22
+         "group":22
       },
       {
          "id":"Ozenc Ipragaz",
          "cat":"Natural Gas Station",
-         "number":23
+         "group":23
       },
       {
          "id":"Sahin Otomotiv",
          "cat":"Office",
-         "number":24
+         "group":24
       },
       {
          "id":"Otugen Ticaret",
          "cat":"Office",
-         "number":24
+         "group":24
       },
       {
          "id":"Furkan Otomotiv",
          "cat":"Office",
-         "number":24
+         "group":24
       },
       {
          "id":"Ozaciyan Emlak",
          "cat":"Office",
-         "number":24
+         "group":24
       },
       {
          "id":"Baslar Muhendislik",
          "cat":"Office",
-         "number":24
+         "group":24
       },
       {
          "id":"Esenler Insaat Emlak",
          "cat":"Office",
-         "number":24
+         "group":24
       },
       {
          "id":"Fevzi Emlak",
          "cat":"Office",
-         "number":24
+         "group":24
       },
       {
          "id":"Dekorasyon",
          "cat":"Office",
-         "number":24
+         "group":24
       },
       {
          "id":"Kurtulus Ofis",
          "cat":"Office",
-         "number":24
+         "group":24
       },
       {
          "id":"Karsan Insaat",
          "cat":"Office",
-         "number":24
+         "group":24
       },
       {
          "id":"Demkan Otomotiv",
          "cat":"Office",
-         "number":24
+         "group":24
       },
       {
          "id":"Jolly Hava Yolları",
          "cat":"Office",
-         "number":24
+         "group":24
       },
       {
          "id":"Halil Ibrahim Vakfı",
          "cat":"Office",
-         "number":24
+         "group":24
       },
       {
          "id":"Esma Ticaret ",
          "cat":"Office",
-         "number":24
+         "group":24
       },
       {
          "id":"Kadircan Eczanesi",
          "cat":"Pharmacy",
-         "number":25
+         "group":25
       },
       {
          "id":"Halk Eczanesi",
          "cat":"Pharmacy",
-         "number":25
+         "group":25
       },
       {
          "id":"Ecem Eczanesi",
          "cat":"Pharmacy",
-         "number":25
+         "group":25
       },
       {
          "id":"Turkan Aslan Eczanesi",
          "cat":"Pharmacy",
-         "number":25
+         "group":25
       },
       {
          "id":"Camlık Ozlem Eczanesi",
          "cat":"Pharmacy",
-         "number":25
+         "group":25
       },
       {
          "id":"Alımoglu Eczanesi",
          "cat":"Pharmacy",
-         "number":25
+         "group":25
       },
       {
          "id":"Yeni Fikret Eczanesi",
          "cat":"Pharmacy",
-         "number":25
+         "group":25
       },
       {
          "id":"Ozge Eczanesi",
          "cat":"Pharmacy",
-         "number":25
+         "group":25
       },
       {
          "id":"Edesa Fotografcılık",
          "cat":"Photographer Store",
-         "number":26
+         "group":26
       },
       {
          "id":"Suret Fotografcılık",
          "cat":"Photographer Store",
-         "number":26
+         "group":26
       },
       {
          "id":"Studyo 2miz Foto",
          "cat":"Photographer Store",
-         "number":26
+         "group":26
       },
       {
          "id":"Cevdet Digital Fotografcilik",
          "cat":"Photographer Store",
-         "number":26
+         "group":26
       },
       {
          "id":"Ersoy Ayakkabı",
          "cat":"Shoe and Bag Store",
-         "number":27
+         "group":27
       },
       {
          "id":"Flor Ayakkabı",
          "cat":"Shoe and Bag Store",
-         "number":27
+         "group":27
       },
       {
          "id":"Karalar Kundura",
          "cat":"Shoe and Bag Store",
-         "number":27
+         "group":27
       },
       {
          "id":"Murat Ayakkabı",
          "cat":"Shoe and Bag Store",
-         "number":27
+         "group":27
       },
       {
          "id":"Erciyes Kundura",
          "cat":"Shoe and Bag Store",
-         "number":27
+         "group":27
       },
       {
          "id":"Yazgı Ayakkabı Market",
          "cat":"Shoe and Bag Store",
-         "number":27
+         "group":27
       },
       {
          "id":"Gez Ayakkabı",
          "cat":"Shoe and Bag Store",
-         "number":27
+         "group":27
       },
       {
          "id":"Polaris Ayakkabı",
          "cat":"Shoe and Bag Store",
-         "number":27
+         "group":27
       },
       {
          "id":"Arow Ayakkabı",
          "cat":"Shoe and Bag Store",
-         "number":27
+         "group":27
       },
       {
          "id":"Ramada Canta",
          "cat":"Shoe and Bag Store",
-         "number":27
+         "group":27
       },
       {
          "id":"Hangar Ayakkabı",
          "cat":"Shoe and Bag Store",
-         "number":27
+         "group":27
       },
       {
          "id":"Carikci Ayakkabı",
          "cat":"Shoe and Bag Store",
-         "number":27
+         "group":27
       },
       {
          "id":"Alpinisma",
          "cat":"Shoe and Bag Store",
-         "number":27
+         "group":27
       },
       {
          "id":"Merve Ayakkabı",
          "cat":"Shoe and Bag Store",
-         "number":27
+         "group":27
       },
       {
          "id":"Metro Canta",
          "cat":"Shoe and Bag Store",
-         "number":27
+         "group":27
       },
       {
          "id":"Yoresel Gaziantep Pazarı",
          "cat":"Spice Store",
-         "number":28
+         "group":28
       },
       {
          "id":"Akar Kuruyemis",
          "cat":"Spice Store",
-         "number":28
+         "group":28
       },
       {
          "id":"Avantaj Gıda",
          "cat":"Spice Store",
-         "number":28
+         "group":28
       },
       {
          "id":"Dudu Cerez",
          "cat":"Spice Store",
-         "number":28
+         "group":28
       },
       {
          "id":"Irem Kuruyemis",
          "cat":"Spice Store",
-         "number":28
+         "group":28
       },
       {
          "id":"Kacar Kuruyemis",
          "cat":"Spice Store",
-         "number":28
+         "group":28
       },
       {
          "id":"Bereket Kuruyemis",
          "cat":"Spice Store",
-         "number":28
+         "group":28
       },
       {
          "id":"Dortyol Kuruyemis",
          "cat":"Spice Store",
-         "number":28
+         "group":28
       },
       {
          "id":"Nur Baharat",
          "cat":"Spice Store",
-         "number":28
+         "group":28
       },
       {
          "id":"Makbul Kuruyemis",
          "cat":"Spice Store",
-         "number":28
+         "group":28
       },
       {
          "id":"Eyup Sultan Baharatcisi",
          "cat":"Spice Store",
-         "number":28
+         "group":28
       },
       {
          "id":"Bitkisel Market",
          "cat":"Spice Store",
-         "number":28
+         "group":28
       },
       {
          "id":"Caferogulları Kuruyemis",
          "cat":"Spice Store",
-         "number":28
+         "group":28
       },
       {
          "id":"Oyuncakcı",
          "cat":"Toy and Game Store",
-         "number":29
+         "group":29
       }
    ],
    "links":[
