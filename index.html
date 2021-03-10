@@ -29,8 +29,8 @@
     <script>
 
     var svg = d3.select("svg"),
-        width = +svg.attr("width"),
-        height = +svg.attr("height");
+        width = +window.innerWidth,
+        height = +window.innerHeight;
 
     var color = d3.scaleOrdinal(d3.schemeCategory20);
 
