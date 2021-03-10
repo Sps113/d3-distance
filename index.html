@@ -19,6 +19,7 @@
     }
 
     </style>
+    <title>Distance</title>
 </head>
 <body>
     <svg id="svg"></svg>
@@ -65,7 +66,7 @@
         .enter().append("g")
         
     var circles = node.append("circle")
-        .attr("r", function(d) { return d.count; })
+        .attr("r", function(d) { return Math.sqrt(d.count); })
         .attr("fill", function(d) { return color(d.group); })
         .call(d3.drag()
             .on("start", dragstarted)
