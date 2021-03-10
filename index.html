@@ -21,7 +21,7 @@
     </style>
 </head>
 <body>
-    <svg width="960" height="600"></svg>
+    <svg id="svg"></svg>
 </body>
     
     <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -30,6 +30,9 @@
     var svg = d3.select("svg"),
         width = +window.innerWidth,
         height = +window.innerHeight;
+        
+    document.getElementById('svg').setAttribute("height", height+"px");    
+    document.getElementById('svg').setAttribute("width", width+"px");    
 
     var color = d3.scaleOrdinal(d3.schemeCategory20);
 
