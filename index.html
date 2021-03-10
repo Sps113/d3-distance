@@ -60,7 +60,7 @@
         .enter().append("g")
         
     var circles = node.append("circle")
-        .attr("r", function(d) { return d.count; })
+        .attr("r", function(d) { return Math.sqrt(d.count); })
         .attr("fill", function(d) { return color(d.group); })
         .call(d3.drag()
             .on("start", dragstarted)
@@ -69,7 +69,7 @@
 
     var lables = node.append("text")
         .text(function(d) {
-            return d.id;
+            return d.id + " " + d.count ;
         })
         .attr('x', 6)
         .attr('y', 3);
