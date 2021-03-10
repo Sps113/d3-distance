@@ -2,119 +2,148 @@
 "nodes": [
    {
       "id":"Accessory",
-      "group":1
+      "group":1,
+      "count":14
    },
    {
       "id":"Bakery",
-      "group":2
+      "group":2,
+      "count":19
    },
    {
       "id":"Bank",
-      "group":3
+      "group":3,
+      "count":17
    },
    {
       "id":"Beauty Care",
-      "group":4
+      "group":4,
+      "count":11
    },
    {
       "id":"Betting",
-      "group":5
+      "group":5,
+      "count":1
    },
    {
       "id":"Bookstore",
-      "group":6
+      "group":6,
+      "count":4
    },
    {
       "id":"Cafe",
-      "group":7
+      "group":7,
+      "count":8
    },
    {
       "id":"Cargo",
-      "group":8
+      "group":8,
+      "count":1
    },
    {
       "id":"Charcuterie",
-      "group":9
+      "group":9,
+      "count":8
    },
    {
       "id":"Clothing",
-      "group":10
+      "group":10,
+      "count":60
    },
    {
       "id":"Depot",
-      "group":11
+      "group":11,
+      "count":4
    },
    {
       "id":"Eatery",
-      "group":12
+      "group":12,
+      "count":27
    },
    {
       "id":"Educational",
-      "group":13
+      "group":13,
+      "count":3
    },
    {
       "id":"Florist ",
-      "group":14
+      "group":14,
+      "count":1
    },
    {
       "id":"Furniture Store",
-      "group":15
+      "group":15,
+      "count":26
    },
    {
       "id":"Gas Station",
-      "group":16
+      "group":16,
+      "count":1
    },
    {
       "id":"Hardware Store",
-      "group":17
+      "group":17,
+      "count":9
    },
    {
       "id":"Health",
-      "group":18
+      "group":18,
+      "count":3
    },
    {
       "id":"Home Goods",
-      "group":19
+      "group":19,
+      "count":31
    },
    {
       "id":"Jeweler",
-      "group":20
+      "group":20,
+      "count":8
    },
    {
       "id":"Market",
-      "group":21
+      "group":21,
+      "count":11
    },
    {
       "id":"Mobile Store",
-      "group":22
+      "group":22,
+      "count":27
    },
    {
       "id":"Natural Gas Station",
-      "group":23
+      "group":23,
+      "count":1
    },
    {
       "id":"Office",
-      "group":24
+      "group":24,
+      "count":14
    },
    {
       "id":"Pharmacy",
-      "group":25
+      "group":25,
+      "count":8
    },
    {
       "id":"Photographer Store",
-      "group":26
+      "group":26,
+      "count":4
    },
    {
       "id":"Shoe and Bag Store",
-      "group":27
+      "group":27,
+      "count":15
    },
    {
       "id":"Spice Store",
-      "group":28
+      "group":28,
+      "count":13
    },
    {
       "id":"Toy and Game Store",
-      "group":29
+      "group":29,
+      "count":1
    }
 ],
 "links": 
