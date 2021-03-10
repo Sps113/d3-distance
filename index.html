@@ -15,7 +15,7 @@
 
     text {
     font-family: 'Roboto Condensed',sans-serif;
-    font-size: 8px;
+    font-size: 10px;
     }
 
     </style>
@@ -65,7 +65,7 @@
         .enter().append("g")
         
     var circles = node.append("circle")
-        .attr("r", function(d) { return Math.sqrt(d.count); })
+        .attr("r", function(d) { return d.count; })
         .attr("fill", function(d) { return color(d.group); })
         .call(d3.drag()
             .on("start", dragstarted)
