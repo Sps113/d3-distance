@@ -22,7 +22,7 @@
     <title>Distance</title>
 </head>
 <body>
-     <a href="/obj.html">Objects</a>
+    <a href="/index.html">Categories</a>
     <svg id="svg"></svg>
 </body>
     
@@ -48,7 +48,7 @@
         return d.value*2.5;
     }
 
-    d3.json("distance-d3.json", function(error, graph) {
+    d3.json("distance-d3-obj.json", function(error, graph) {
     if (error) throw error;
 
     var link = svg.append("g")
