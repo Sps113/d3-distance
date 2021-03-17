@@ -45,7 +45,7 @@
         .force("center", d3.forceCenter(width / 2, height / 2));
         
     function linkDistance(d) {
-        return d.value;
+        return d.value*3;
     }
 
     d3.json("distance-d3-obj.json", function(error, graph) {
@@ -56,7 +56,7 @@
         .selectAll("line")
         .data(graph.links)
         .enter().append("line")
-        .attr("stroke-width", function(d) { return 1; });
+        .attr("stroke-width", function(d) { return 0.1; });
 
     var node = svg.append("g")
         .attr("preserveAspectRatio", "xMinYMin meet")
