@@ -45,7 +45,7 @@
         .force("center", d3.forceCenter(width / 2, height / 2));
         
     function linkDistance(d) {
-        return d.value*2;
+        return d.value*1.6;
     }
 
     d3.json("distance-d3.json", function(error, graph) {
