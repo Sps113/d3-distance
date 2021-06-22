@@ -42,10 +42,10 @@
         .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(linkDistance).strength(0.1))
 //         .force("link", d3.forceLink())
         .force("charge", d3.forceManyBody())
-        .force("center", d3.forceCenter(width / 2, height / 2));
+        .force("center", d3.forceCenter(width , height ));
         
     function linkDistance(d) {
-        return d.value*1.6;
+        return d.value*1.5;
     }
 
     d3.json("distance-d3-new.json", function(error, graph) {
