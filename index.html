@@ -67,7 +67,7 @@
         .enter().append("g")
         
     var circles = node.append("circle")
-        .attr("r", function(d) { return Math.sqrt(d.count); })
+        .attr("r", function(d) { return Math.sqrt(d.count)* 2 ; })
         .attr("fill", function(d) { return color(d.group); })
         .call(d3.drag()
             .on("start", dragstarted)
