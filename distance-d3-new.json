@@ -36,11 +36,6 @@
       "count":8
    },
    {
-      "id":"Cargo",
-      "group":8,
-      "count":1
-   },
-   {
       "id":"Charcuterie",
       "group":9,
       "count":8
@@ -66,7 +61,7 @@
       "count":3
    },
    {
-      "id":"Florist ",
+      "id":"Florist",
       "group":14,
       "count":1
    },
@@ -74,11 +69,6 @@
       "id":"Furniture Store",
       "group":15,
       "count":26
-   },
-   {
-      "id":"Gas Station",
-      "group":16,
-      "count":1
    },
    {
       "id":"Hardware Store",
@@ -149,12 +139,6 @@
       "id":"Empty",
       "group":30,
       "count":3
-   }
-   ,
-   {
-      "id":"Florist",
-      "group":31,
-      "count":1
    }
 ],
 "links": 
